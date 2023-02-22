@@ -1,3 +1,4 @@
-build
 # Project exclude paths
 /cmake-build-debug/
+build
+a.out
